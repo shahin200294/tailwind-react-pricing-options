@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "price": 20,
+    "duration": "month",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "Free WiFi",
+      "1 group class per week",
+      "Changing room access",
+      "Water station access",
+      "Fitness assessment"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Membership",
+    "price": 40,
+    "duration": "month",
+    "features": [
+      "All Basic features",
+      "Unlimited group classes",
+      "Personal trainer (2 sessions/month)",
+      "Diet plan guidance",
+      "Body composition tracking",
+      "Cardio zone access",
+      "Stretching area access",
+      "Guest pass (1 per month)"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Membership",
+    "price": 70,
+    "duration": "month",
+    "features": [
+      "All Standard features",
+      "Unlimited personal training",
+      "Sauna & steam bath",
+      "24/7 gym access",
+      "Priority support",
+      "VIP lounge access",
+      "Massage recovery session",
+      "Premium locker",
+      "Guest pass (unlimited)",
+      "Exclusive workshops"
+    ]
+  }
+]
