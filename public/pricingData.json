@@ -3,6 +3,7 @@
     "id": 1,
     "name": "Basic Membership",
     "price": 20,
+    "description": "Great for familles who want to stay healthy together",
     "duration": "month",
     "features": [
       "Access to gym equipment",
@@ -18,6 +19,7 @@
     "id": 2,
     "name": "Standard Membership",
     "price": 40,
+    "description": "Great for familles who want to stay healthy together",
     "duration": "month",
     "features": [
       "All Basic features",
@@ -34,6 +36,7 @@
     "id": 3,
     "name": "Premium Membership",
     "price": 70,
+    "description": "Great for familles who want to stay healthy together",
     "duration": "month",
     "features": [
       "All Standard features",
